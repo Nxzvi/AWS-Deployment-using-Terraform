@@ -21,3 +21,4 @@ This project provisions AWS infrastructure using Terraform and deploys an EC2 in
 terraform init
 terraform plan
 terraform apply# AWS-Deployment-using-Terraform
+# AWS-Deployment-using-Terraform
