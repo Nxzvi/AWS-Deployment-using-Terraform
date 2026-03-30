@@ -12,6 +12,7 @@ This project provisions AWS infrastructure using Terraform and deploys an EC2 in
 - Route Table
 - Security Group
 - EC2 Instance
+- AWS S3
 
 ---
 
